@@ -4,6 +4,12 @@
 <h1>Tic Tac Toe Game Using React</h1>
 <p>This guide explains how to create and run a React-based Tic Tac Toe game for two players. The game allows players to take turns marking X and O on a 3x3 grid and declares the winner or a tie.</p>
 <h2>Steps to Run the React App:</h2>
+<ol>
+  <li>
+    <b>Install Node.js:</b>
+    <p>Ensure you have Node.js installed on your system. Download it from <a href="https://nodejs.org" target="_blank">https://nodejs.org</a>.</p>
+  </li>
+</ol>
 <hr>
 # Getting Started with Create React App
 
