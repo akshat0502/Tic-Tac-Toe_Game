@@ -24,6 +24,7 @@
     <p>Modify the <code>App.js</code> file and create components for:</p>
     <ul>
       <li><b>Game Board:</b> A 3x3 grid for players to click on.</li>
+      <li><b>Square:</b> A single clickable square that displays X or O.</li>
     </ul>
   </li>
 </ol>
