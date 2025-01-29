@@ -14,6 +14,11 @@
     <p>Use <code>create-react-app</code> to set up your React project:</p>
     <pre><code>npx create-react-app tic-tac-toe</code></pre>
   </li>
+  <li>
+    <b>Start the Development Server:</b>
+    <pre><code>npm start</code></pre>
+    <p>This will open the app in your default web browser at <code>http://localhost:3000</code>.</p>
+  </li>
 </ol>
 <hr>
 # Getting Started with Create React App
