@@ -25,6 +25,7 @@
     <ul>
       <li><b>Game Board:</b> A 3x3 grid for players to click on.</li>
       <li><b>Square:</b> A single clickable square that displays X or O.</li>
+      <li><b>Game Logic:</b> Handles player turns and checks for a winner or tie.</li>
     </ul>
   </li>
 </ol>
