@@ -22,6 +22,9 @@
   <li>
     <b>Create the Tic Tac Toe Game:</b>
     <p>Modify the <code>App.js</code> file and create components for:</p>
+    <ul>
+      <li><b>Game Board:</b> A 3x3 grid for players to click on.</li>
+    </ul>
   </li>
 </ol>
 <hr>
