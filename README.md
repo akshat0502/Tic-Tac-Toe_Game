@@ -19,6 +19,10 @@
     <pre><code>npm start</code></pre>
     <p>This will open the app in your default web browser at <code>http://localhost:3000</code>.</p>
   </li>
+  <li>
+    <b>Create the Tic Tac Toe Game:</b>
+    <p>Modify the <code>App.js</code> file and create components for:</p>
+  </li>
 </ol>
 <hr>
 # Getting Started with Create React App
