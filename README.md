@@ -39,7 +39,14 @@
       function Board() {
   const [squares, setSquares] = React.useState(Array(9).fill(null));
   const [isXNext, setIsXNext] = React.useState(true);
-    }
+
+     const handleClick = (index) => {
+    if (squares[index] || calculateWinner(squares)) return;
+    const nextSquares = squares.slice();
+    nextSquares[index] = isXNext ? 'X' : 'O';
+    setSquares(nextSquares);
+    setIsXNext(!isXNext);
+  };
     </code></pre>
   </li>
 </ol>
