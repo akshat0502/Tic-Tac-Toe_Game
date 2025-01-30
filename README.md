@@ -51,6 +51,16 @@
   const winner = calculateWinner(squares);
   const status = winner ? `Winner: ${winner}` : `Next Player: ${isXNext ? 'X' : 'O'}`;
 }
+return (
+    <div>
+      <div>{status}</div>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '5px' }}>
+        {squares.map((square, index) => (
+          <Square key={index} value={square} onClick={() => handleClick(index)} />
+        ))}
+      </div>
+    </div>
+  );
     </code></pre>
   </li>
 </ol>
