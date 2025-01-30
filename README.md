@@ -47,6 +47,10 @@
     setSquares(nextSquares);
     setIsXNext(!isXNext);
   };
+
+  const winner = calculateWinner(squares);
+  const status = winner ? `Winner: ${winner}` : `Next Player: ${isXNext ? 'X' : 'O'}`;
+}
     </code></pre>
   </li>
 </ol>
