@@ -27,6 +27,16 @@
       <li><b>Square:</b> A single clickable square that displays X or O.</li>
       <li><b>Game Logic:</b> Handles player turns and checks for a winner or tie.</li>
     </ul>
+    <p>Example code for the main components:</p>
+    <pre><code>
+      function Square({ value, onClick }) {
+  return (
+    <button onClick={onClick}>
+      {value}
+    </button>
+  );
+}
+    </code></pre>
   </li>
 </ol>
 <hr>
