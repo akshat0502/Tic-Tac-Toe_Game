@@ -36,6 +36,10 @@
     </button>
   );
 }
+      function Board() {
+  const [squares, setSquares] = React.useState(Array(9).fill(null));
+  const [isXNext, setIsXNext] = React.useState(true);
+    }
     </code></pre>
   </li>
 </ol>
