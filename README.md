@@ -83,6 +83,8 @@ export default function App() {
   <li>
     <b>Build for Production:</b>
     <p>When your app is ready for deployment, run:</p>
+    <pre><code>npm run build</code></pre>
+    <p>This creates an optimized production build in the <code>build</code> folder.</p>
   </li>
 </ol>
 <hr>
