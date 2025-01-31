@@ -75,6 +75,9 @@ return (
   }
   return null;
 }
+export default function App() {
+  return <Board />;
+}
     </code></pre>
   </li>
 </ol>
