@@ -88,6 +88,15 @@ export default function App() {
   </li>
 </ol>
 <h2>Folder Structure:</h2>
+<pre><code>
+  tic-tac-toe/
+├── public/       // Static files (e.g., index.html)
+├── src/          // React components and logic
+│   ├── components/  // Reusable UI components
+│   ├── App.js        // Main app component
+│   ├── index.js      // Entry point
+├── package.json  // Project dependencies and scripts
+</code></pre>
 <hr>
 <br>
 # Getting Started with Create React App
