@@ -98,6 +98,9 @@ export default function App() {
 ├── package.json  // Project dependencies and scripts
 </code></pre>
 <h2>Tips:</h2>
+<ul>
+  <li>Add animations using libraries like <a href="https://www.framer.com/motion/" target="_blank">Framer Motion</a> to enhance user experience.</li>
+</ul>
 <hr>
 <br>
 # Getting Started with Create React App
