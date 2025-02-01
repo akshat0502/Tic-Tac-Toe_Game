@@ -100,6 +100,7 @@ export default function App() {
 <h2>Tips:</h2>
 <ul>
   <li>Add animations using libraries like <a href="https://www.framer.com/motion/" target="_blank">Framer Motion</a> to enhance user experience.</li>
+  <li>Style the game board with CSS for a polished look.</li>
 </ul>
 <hr>
 <br>
