@@ -97,6 +97,7 @@ export default function App() {
 │   ├── index.js      // Entry point
 ├── package.json  // Project dependencies and scripts
 </code></pre>
+<h2>Tips:</h2>
 <hr>
 <br>
 # Getting Started with Create React App
