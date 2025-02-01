@@ -101,6 +101,7 @@ export default function App() {
 <ul>
   <li>Add animations using libraries like <a href="https://www.framer.com/motion/" target="_blank">Framer Motion</a> to enhance user experience.</li>
   <li>Style the game board with CSS for a polished look.</li>
+  <li>Add a "Reset Game" button to restart the game.</li>
 </ul>
 <hr>
 <br>
