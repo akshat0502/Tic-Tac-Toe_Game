@@ -87,7 +87,9 @@ export default function App() {
     <p>This creates an optimized production build in the <code>build</code> folder.</p>
   </li>
 </ol>
+<h2>Folder Structure:</h2>
 <hr>
+<br>
 # Getting Started with Create React App
 
 
