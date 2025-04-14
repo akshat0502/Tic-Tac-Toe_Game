@@ -48,8 +48,8 @@
           setIsXNext(!isXNext);
     };
 
-  const winner = calculateWinner(squares);
-  const status = winner ? `Winner: ${winner}` : `Next Player: ${isXNext ? 'X' : 'O'}`;
+    const winner = calculateWinner(squares);
+    const status = winner ? `Winner: ${winner}` : `Next Player: ${isXNext ? 'X' : 'O'}`;
 }
 return (
     <div>
